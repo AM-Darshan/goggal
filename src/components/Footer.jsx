@@ -2,6 +2,6 @@ import React from 'react'
 
 export const Footer = () => (
   <div className="text-center p-10 mt-10 border-t dark:border-gray-700 border-gray-200 ">
-    © 2022 Goggal, AM Darshan
+    © 2022 Goggal, <a href="https://github.com/AM-Darshan/goggal">AM Darshan</a>
   </div>
 );
