@@ -1,5 +1,9 @@
-# Getting Started with Create React App
-## Available Scripts
+# Goggal Website
+Can be used just like google for browsing details which includes sites, news and videos  
+
+### Live Deplayed Link: https://goggal-search-amd.netlify.app/
+
+## Getting Started with Create React App
 
 In the project directory, you can run:
 
