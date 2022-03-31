@@ -1,7 +1,7 @@
 # Goggal Website
 Can be used just like google for browsing details which includes sites, news and videos  
 
-### Live Deplayed Link: https://goggal-search-amd.netlify.app/
+### Live Link: https://goggal-search-amd.netlify.app/
 
 ## Getting Started with Create React App
 
